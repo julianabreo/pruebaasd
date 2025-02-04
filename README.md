@@ -1,9 +1,9 @@
 # pruebaasd
 ## pruebas asd pokeapi
 
-###Archivo de prueba
+## Archivo de prueba
 
-###Requisitos:
+### Requisitos:
 
 1. Pantalla Principal:
 Mostrar una lista de elementos obtenidos desde una API pública (por
