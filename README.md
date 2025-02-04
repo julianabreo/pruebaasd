@@ -1,5 +1,5 @@
 # pruebaasd
-## pruebas asd pokeapi
+prueb tecnica ASD
 
 ## Archivo de prueba
 
