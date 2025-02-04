@@ -1,32 +1,32 @@
 # pruebaasd
 prueba tecnica ASD kotlin usando JetPack compose 
 
-patron MVVM 
-navigation compose 
-dagger-hilt
-retrot2
-coil
-timber
-pallete
+patron MVVM, 
+navigation compose, 
+dagger-hilt,
+retrot2,
+coil,
+timber,
+pallete,
 coroutines kotlin
 
 ## Archivo de prueba
 
 ### Requisitos:
 
-1. Pantalla Principal:
+1.  **Y Pantalla Principal:**
 Mostrar una lista de elementos obtenidos desde una API pública (por
 ejemplo, JSONPlaceholder).
 
 R:// se desarollo con la url de poke api 
 https://pokeapi.co/api/v2/pokemon/
 
-2. Los datos deben incluir título y descripción.
+2. **Los datos deben incluir título y descripción.**
 Implementar una búsqueda para filtrar elementos por título.
 
 R:// el pakage PokemonList contiene la vista y elviewmodel de esta solicitud
 
-3. Pantalla de Detalle:
+3. **Pantalla de Detalle:**
    
 Al seleccionar un elemento de la lista, abrir una nueva pantalla que muestre
 más detalles del elemento (por ejemplo, el cuerpo del post).
