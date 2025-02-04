@@ -48,20 +48,21 @@ https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/
 
 **Requisitos Técnicos:**
 
--Uen sar Kotlin y el patrón MVVM.  
-    >R:// se usa en el proyecto mas clean arquitecture 
+- Uen sar Kotlin y el patrón MVVM.  
+    > R:// se usa en el proyecto mas clean arquitecture 
 
--Utilizar Retrofit para el consumo de APIs REST.
-    >R:// usado retorift 2 revisar el build.gradle 
+- Utilizar Retrofit para el consumo de APIs REST.
+    > R:// usado retorift 2 revisar el build.gradle 
 
--Implementar navegación con Jetpack Navigation Component.
-    >R://usado revisar el build.gradle
+- Implementar navegación con Jetpack Navigation Component.
+    > R://usado revisar el build.gradle
 
-● Usar ViewModel y LiveData.
-● Crear un archivo README con instrucciones para correr el proyecto y explicación de
+- Usar ViewModel y LiveData.
+
+- Crear un archivo README con instrucciones para correr el proyecto y explicación de
 las decisiones tomadas.
 
-tambien se uso dagger-hit para el manejo de injeccion de dependencias
+    > tambien se uso dagger-hit para el manejo de injeccion de dependencias
 
     
 
