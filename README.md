@@ -4,10 +4,10 @@ prueba tecnica ASD kotlin usando JetPack compose
 patron MVVM, 
 navigation compose, 
 dagger-hilt,
-retrot2,
+retrofit2,
 coil,
 timber,
-pallete,
+palette,
 coroutines kotlin
 
 ## Archivo de prueba
